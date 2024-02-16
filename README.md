@@ -8,5 +8,7 @@ More details about the DICOM standard at ![DCOM Standard](https://dicom.nema.org
 
 Note: the example uses pwn tools to build cyclic patterns. You can install via `pip install pwntools`.
 
+This package can be installed via pip as well `pip install dicombuilder`
+
 # License
 See the LICENSE.txt file
